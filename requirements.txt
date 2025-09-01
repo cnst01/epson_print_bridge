@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+lxml
+python-escpos
+pyside6
+pyinstaller
